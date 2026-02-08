@@ -12,8 +12,8 @@ const Footer = () => {
         <p className="txtfont txtcol1 ">
           © {startYear} - {currentYear} Seoul Food | All rights reserved
         </p>
-       <Link href="" className={styles.footer__link}>
-		  <span>Designed by </span><span className={styles.bw}>CiestoMedia</span>
+       <Link href="https://lidofox.com" className={styles.footer__link}>
+		  <span>Designed by </span><span className={styles.bw}>Lidofox</span>
        </Link>		
       </div>
     </footer>
